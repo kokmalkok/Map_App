@@ -1,0 +1,20 @@
+PODS:
+  - FloatingPanel (2.5.3)
+  - SPAlert (4.2.0)
+
+DEPENDENCIES:
+  - FloatingPanel
+  - SPAlert
+
+SPEC REPOS:
+  trunk:
+    - FloatingPanel
+    - SPAlert
+
+SPEC CHECKSUMS:
+  FloatingPanel: 3cee815e9ded75b632543fa73ab655a1ef941452
+  SPAlert: 735da1f16a887e294719217572ce1f936d8c8782
+
+PODFILE CHECKSUM: 9f6ecd3f1eafd21ec76ad2c0e4c1ca240a618529
+
+COCOAPODS: 1.11.3
